@@ -47,8 +47,6 @@
   </nav>
 
   <main class="bg-gray-100 font-sans">
-
-
     <!-- Hero Section -->
     <section class="text-center py-16">
       <div class="container mx-auto">
